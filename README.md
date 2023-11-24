@@ -1,5 +1,5 @@
 # Chatbot UI
-
+update to vercel
 ## News
 
 Chatbot UI 2.0 is out as an updated, hosted product!
